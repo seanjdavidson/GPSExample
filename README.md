@@ -1,1 +1,1 @@
-# GPSExample
+# GPSExample in class
